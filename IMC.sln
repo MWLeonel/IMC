@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC", "IMC\IMC.csproj", "{48E6D41B-6381-40E6-A79A-E9FF7CDB1B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E6D41B-6381-40E6-A79A-E9FF7CDB1B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E6D41B-6381-40E6-A79A-E9FF7CDB1B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E6D41B-6381-40E6-A79A-E9FF7CDB1B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E6D41B-6381-40E6-A79A-E9FF7CDB1B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2709E2E8-E800-4FC5-BBF8-34D0F884BF8F}
+	EndGlobalSection
+EndGlobal

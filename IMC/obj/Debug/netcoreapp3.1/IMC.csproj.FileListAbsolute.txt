@@ -1,0 +1,26 @@
+C:\Users\Max Leonel\Desktop\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.exe
+C:\Users\Max Leonel\Desktop\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.deps.json
+C:\Users\Max Leonel\Desktop\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.dll
+C:\Users\Max Leonel\Desktop\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.dll
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\Max Leonel\Desktop\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.genruntimeconfig.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\bin\Debug\netcoreapp3.1\IMC.exe
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\bin\Debug\netcoreapp3.1\IMC.deps.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\bin\Debug\netcoreapp3.1\IMC.dll
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\bin\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.dll
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\Max Leonel\Desktop\Área de Trabalho\ETEC\1ºMódulo\Programação de Computadores I\Visual Studio Repository\3. Números e Operadores\10. IMC\IMC\obj\Debug\netcoreapp3.1\IMC.genruntimeconfig.cache
